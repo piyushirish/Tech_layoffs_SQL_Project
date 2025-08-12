@@ -107,7 +107,7 @@ ORDER BY 2 DESC;
 
 -- --------------------------------------------------------------------------------------------------------------
 
--- Earlier we looked at Companies with the most Layoffs. Now let's look at that per year. It's a little more difficult.
+-- Earlier we looked at Companies with the most Layoffs. Now let's look at that per year.
 -- I want to look at 
 
 WITH Company_Year AS 
