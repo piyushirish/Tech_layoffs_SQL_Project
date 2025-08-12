@@ -50,8 +50,7 @@ ORDER BY funds_raised DESC;
 
 
 
-
--- SOMEWHAT TOUGHER AND MOSTLY USING GROUP BY--------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 
 -- Companies with the biggest single Layoff
 
@@ -106,7 +105,7 @@ ORDER BY 2 DESC;
 
 
 
--- TOUGHER QUERIES------------------------------------------------------------------------------------------------------------------------------------
+-- --------------------------------------------------------------------------------------------------------------
 
 -- Earlier we looked at Companies with the most Layoffs. Now let's look at that per year. It's a little more difficult.
 -- I want to look at 
